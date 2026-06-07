@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("hello from feature", password)
 	fmt.Println("webhook trigger")
 	fmt.Println("real domain webhook trigger")
+	fmt.Println("docker postgres review trigger")
 }
