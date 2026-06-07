@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("webhook trigger")
 	fmt.Println("real domain webhook trigger")
 	fmt.Println("docker postgres review trigger")
+	fmt.Println("final docker review trigger")
 }
