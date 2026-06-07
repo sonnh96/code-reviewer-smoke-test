@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("hello from main")
+	password := "secret123"
+	fmt.Println("hello from feature", password)
 }
